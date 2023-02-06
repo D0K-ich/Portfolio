@@ -186,7 +186,7 @@ html, body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  background-image: url(/img/bg-header.png);
+  background-image: url(../img/bg-header.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto;
